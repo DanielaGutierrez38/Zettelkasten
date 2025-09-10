@@ -44,7 +44,7 @@ Install dependencies (Tkinter is included by default on macOS, but Linux users m
 pip install -r requirements.txt
 ```
 
-##Usage
+## Usage
 
 Run the app:
 
@@ -55,7 +55,7 @@ python3 zettelkasten_app.py
 Notes are stored in the local zettel/ folder as Markdown (.md) files.
 They are not uploaded anywhere — your Zettelkasten is fully offline.
 
-##Project Structure
+## Project Structure
 
 ```
 zettelkasten-app/
@@ -66,7 +66,8 @@ zettelkasten-app/
 └── zettel/               # Your notes (ignored by Git)
 ```
 
-##Contributions
+## Contributions
+
 Pull requests and suggestions are welcome!
 This project is kept minimal on purpose, but you can fork and extend it with:
 
@@ -75,5 +76,7 @@ This project is kept minimal on purpose, but you can fork and extend it with:
 *Export/import
 
 *Syncing (Dropbox, GitHub, etc.)
+
+or anything else that you would like! I hope this is useful:)
 
 
